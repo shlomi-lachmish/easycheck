@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"name": "My sample app",
+		"type": "get",
+		"url": "https://jsonplaceholder.typicode.com/posts/1",
+		"tests": {
+			"title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit"
+		}
+	},
+	{
+		"id": 2,
+		"name": "My sample app2",
+		"type": "get",
+		"url": "https://jsonplaceholder.typicode.com/posts/2",
+		"tests": {
+			"userId": 1
+		}
+	},
+	{
+		"id": 3,
+		"name": "My sample app3",
+		"type": "get",
+		"url": "https://jsonplaceholder.typicode.com/posts/2",
+		"tests": {
+			"status": 200
+		}
+	},
+	{
+		"id": 4,
+		"name": "My sample app4",
+		"type": "get",
+		"url": "https://github.wdf.sap.corp/rewqerw",
+		"tests": {
+			"status": 200
+		}
+	}
+]
